@@ -3,6 +3,7 @@ const express = require("express");
 import morgan from "morgan";
 import router from "./routers";
 import cors from 'cors'
+import { createUser, loginUser } from "./handlers/user";
 /**
  * App
  */
@@ -22,6 +23,7 @@ app.use(express.urlencoded({ extends: true }));
 /**
  * Our API
  */
-app.use('/',router)
-
+app.use('/api',router)
+app.post('/signin', createUser)
+app.post("/login",loginUser)
 export default app;
