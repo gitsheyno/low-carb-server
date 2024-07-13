@@ -1,9 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -14,8 +8,79 @@ datasource db {
 }
 
 model User {
-  id        String    @id @default(uuid())
-  createdAT DateTime  @default(now())
-  username  String    @unique
-  password  String
+  id          String   @id @default(uuid())
+  createdAT   DateTime @default(now())
+  username    String   @unique
+  password    String
+  name        String
+
+
+  UserMeal UserMeal[]
+  UserProfile UserProfile?
 }
+
+model UserProfile{
+  id          String   @id @default(uuid())
+  createtAT   DateTime @default(now())
+  belongsToId String @unique
+  proteinGram Float?
+  proteinCal  Float?
+  fatGram     Float?
+  fatCal      Float?
+  carbsGram   Float?
+  carbsCal    Float?
+  calories    Float?
+  gender      String
+  weight      Float
+  height      Float
+  age         Int
+  activity    String
+  goal        String
+  bmr         Float?
+  tdee        Float?
+  belongsTo   User     @relation(fields: [belongsToId], references: [id])
+  @@unique([belongsToId,id])
+
+}
+
+model UserMeal {
+  id          String   @id @default(uuid())
+  createdAT   DateTime @default(now())
+  belongsToId String
+  belongsTo   User     @relation(fields: [belongsToId], references: [id])
+  name        String
+  calories    Float
+  protein     Float
+  carbs       Float
+  fat         Float
+  image       String
+
+  @@unique([id, belongsToId])
+}
+
+// model Macros {
+//   id       String   @id @default(uuid())
+//   calories Float
+
+//   protein   Macronutrient @relation("Protein", fields: [proteinId], references: [id])
+//   proteinId String           @unique
+
+//   fat   Macronutrient @relation("Fat", fields: [fatId], references: [id])
+//   fatId String           @unique
+
+//   carbs   Macronutrient @relation("Carbs", fields: [carbsId], references: [id])
+//   carbsId String           @unique
+
+//   user   User?
+//   userId String? @unique
+// }
+
+// model Macronutrient {
+//   id       String   @id @default(uuid())
+//   grams    Float
+//   calories Float
+
+//   proteinOf Macros? @relation("Protein")
+//   fatOf     Macros? @relation("Fat")
+//   carbsOf   Macros? @relation("Carbs")
+// }

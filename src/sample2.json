@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "fdb99406-aa1c-4f65-a976-42930add11e0",
+    "name": "Keto Chocolate Crunch Ice Cream Bars",
+    "category" : "desserts",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "desserts",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "lchf",
+      "peanut-free",
+      "pork-free",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "These ice cream bars are filled with a super creamy no churn cream cheese ice cream and encased in a chocolate filbert coating.\n\nThese are a great treat for the whole family!",
+    "prepareTime": 320,
+    "cookTime": 0,
+    "ingredients": [
+      {
+        "name": "Cream Cheese Spread",
+        "servingSize": {
+          "units": "ounce",
+          "desc": "7 ounce",
+          "qty": 7,
+          "grams": 198.447,
+          "scale": 13.23
+        }
+      },
+      {
+        "name": "Maple Flavored Syrup by Lakanto",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "2 tablespoon",
+          "qty": 2,
+          "scale": 29.574
+        }
+      },
+      {
+        "name": "Filberts, Raw",
+        "servingSize": {
+          "units": "tablespoon, chopped",
+          "desc": "2 tablespoon, chopped",
+          "qty": 2,
+          "grams": 14.374,
+          "scale": 0.106
+        }
+      },
+      {
+        "name": "Whipping Cream",
+        "servingSize": {
+          "units": "cup",
+          "desc": "1-½ cup",
+          "qty": 1.5,
+          "grams": 357.003,
+          "scale": 24
+        }
+      },
+      {
+        "name": "Coconut Oil",
+        "servingSize": {
+          "units": "cup",
+          "desc": "1-¼ cup",
+          "qty": 1.25,
+          "grams": 272.508,
+          "scale": 20.001
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 4.332,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Cocoa Powder, Unsweetened",
+        "servingSize": {
+          "units": "cup",
+          "desc": "½ cup",
+          "qty": 0.5,
+          "grams": 43.002,
+          "scale": 24.001
+        }
+      },
+      {
+        "name": "100% Pure Erythritol by Now",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "grams": 64,
+          "scale": 16
+        }
+      }
+    ],
+    "steps": [
+      "Add the erythritol to a food processor and blend until powdered.",
+      "Add the cream cheese and vanilla to the blender and blend until smooth.",
+      "Add the cream to a stand mixer with a whisk attachment and whip until light and fluffy and soft peaks form.",
+      "Gently fold the cream cheese mixture into the whipped cream until well combined.",
+      "Line a rectangular freezer proof dish - about 7 x 10 inches with plastic wrap so that it overhangs the edges. Spoon the ice cream mixture into the lined tray and freeze for a minimum of 5 hours.",
+      "Once the ice cream has frozen you can prepare the coating. Add the cocoa powder, syrup and coconut oil to a food processor and blend until completely liquid.",
+      "Add the chopped filberts to the chocolate mixture and stir through.",
+      "Remove the ice cream from the freezer and turn out onto a sheet of baking paper. Slice the ice cream into 12 equal sized bars.",
+      "Spoon the chocolate mixture over the frozen bars so that they are evenly coated.",
+      "Serve immediately or transfer back to the freezer in a sealed container until ready to serve."
+    ],
+    "servings": 12,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 48.195,
+        "units": "servings (per ice cream bar)"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 373.625,
+      "caloriesKJ": 1563.245,
+      "totalCarbs": 10.034,
+      "diabetesCarbsADA": 7.12,
+      "netCarbs": 2.352,
+      "diabetesCarbs": 5.267,
+      "fiber": 1.853,
+      "starch": 0.502,
+      "sugar": 1.607,
+      "addedSugar": 0,
+      "sugarAlcohols": 5.829,
+      "protein": 2.9,
+      "fat": 39.178,
+      "transFat": 0.533,
+      "monousatFat": 6.192,
+      "polyunsatFat": 1.136,
+      "omega3Fat": 0.113,
+      "omega6Fat": 1.023,
+      "saturatedFat": 28.904,
+      "cholesterol": 48.502,
+      "vitaminA": 172.161,
+      "vitaminC": 0.253,
+      "vitaminD": 0.555,
+      "vitaminE": 0.61,
+      "vitaminK": 1.745,
+      "vitaminB1": 0.02,
+      "vitaminB2": 0.098,
+      "vitaminB3": 0.278,
+      "vitaminB5": 0.253,
+      "vitaminB6": 0.027,
+      "vitaminB12": 0.114,
+      "potassium": 110.076,
+      "magnesium": 22.952,
+      "calcium": 37.594,
+      "iron": 0.782,
+      "zinc": 0.435,
+      "copper": 0.163,
+      "phosphorus": 62.104,
+      "sodium": 86.998,
+      "selenium": 1.88,
+      "folate": 5.675,
+      "choline": 10.541,
+      "alcohol": 0.124,
+      "caffeine": 8.242,
+      "gluten": 0,
+      "manganese": 0.216,
+      "conjugatedLinoleicAcid": 0.074,
+      "phyticAcid": 70.878,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.002,
+      "mannitol": 0.001
+    },
+    "image": "https://tinyurl.com/2p82zzca/fdb99406-aa1c-4f65-a976-42930add11e0.png"
+  },
+  {
+    "id": "fe58600a-a0b3-4b72-b0f1-691bd85f3198",
+    "name": "Keto Chocolate Cake Donuts",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "dairy-free",
+      "desserts",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "meal-plan-ok",
+      "paleo",
+      "peanut-free",
+      "pescatarian",
+      "pork-free",
+      "quick-easy",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "I love how soft, moist and chocolatey these donuts are!  They are full of rich chocolate flavor and great with a morning cup of coffee!",
+    "prepareTime": 10,
+    "cookTime": 15,
+    "ingredients": [
+      {
+        "name": "Almond Flour",
+        "servingSize": {
+          "units": "cup",
+          "desc": "1-¼ cup",
+          "qty": 1.25,
+          "grams": 140,
+          "scale": 1.25
+        }
+      },
+      {
+        "name": "Brown Sugar Replacement by Swerve",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "grams": 64,
+          "scale": 16
+        }
+      },
+      {
+        "name": "Baking Powder",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 5,
+          "scale": 1
+        }
+      },
+      {
+        "name": "100% Cocoa Special Dark by Hershey's",
+        "servingSize": {
+          "units": "tbsp",
+          "desc": "3 tbsp",
+          "qty": 3,
+          "grams": 15,
+          "scale": 3
+        }
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1-½ tablespoon",
+          "qty": 1.5,
+          "grams": 20,
+          "scale": 1.5
+        }
+      },
+      {
+        "name": "Original Coconut Milk Unsweetened by Silk",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "2 tablespoon",
+          "qty": 2,
+          "scale": 29.574
+        }
+      },
+      {
+        "name": "Raw Egg",
+        "servingSize": {
+          "units": "large",
+          "desc": "2 large",
+          "qty": 2,
+          "grams": 100,
+          "scale": 2
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 4,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Coarse Kosher Salt by Morton",
+        "servingSize": {
+          "units": "tsp",
+          "desc": "⅛ tsp",
+          "qty": 0.125,
+          "scale": 0.125
+        }
+      },
+      {
+        "name": "The Ultimate Icing Sugar Replacement by Swerve",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "grams": 80,
+          "scale": 16
+        }
+      },
+      {
+        "name": "Original Coconut Milk Unsweetened by Silk",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "3 tablespoon",
+          "qty": 3,
+          "scale": 44.36
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "¼ teaspoon",
+          "qty": 0.25,
+          "scale": 0.25
+        }
+      }
+    ],
+    "steps": [
+      "Preheat an oven to 350 F.  Prepare a donut pan with nonstick cooking spray.",
+      "In a food processor, combine almond flour, sweetener, dark cocoa powder and baking powder together.  Pulse to combine.",
+      "Add in the olive oil, milk, eggs, vanilla extract and ⅛ t kosher salt.  Pulse to turn into a smooth batter. ",
+      "Spoon and smooth batter evenly into the donut pan to make 6 donuts.  Being careful not to overfill the pan so as they rise the dough will not close the center.  You can wipe the centers of the donuts to keep them free of batter.",
+      "Bake for 15 minutes or until cooked through.  ",
+      "Allow donuts to cool in the pan for 15 minutes before removing to a cooling rack.",
+      "In the meantime, prepare the glaze by combining the rest of the Swerve, 3 tablespoons of coconut milk, ¼ t vanilla extract, and a pinch of salt.  Dip the top of each donut into the glaze and then set aside on the rack to dry.  Keep donuts stored in an airtight container for up to one week."
+    ],
+    "servings": 6,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 70.875,
+        "units": "servings (2.5 oz each)"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 207.871,
+      "caloriesKJ": 869.732,
+      "totalCarbs": 14.628,
+      "diabetesCarbsADA": 10.596,
+      "netCarbs": 3.531,
+      "diabetesCarbs": 7.564,
+      "fiber": 3.032,
+      "starch": 0.411,
+      "sugar": 1.382,
+      "addedSugar": 0,
+      "sugarAlcohols": 8.065,
+      "protein": 7.474,
+      "fat": 17.364,
+      "transFat": 0.01,
+      "monousatFat": 10.588,
+      "polyunsatFat": 3.414,
+      "omega3Fat": 0.038,
+      "omega6Fat": 3.376,
+      "saturatedFat": 2.104,
+      "cholesterol": 62.167,
+      "vitaminA": 32.641,
+      "vitaminC": 0,
+      "vitaminD": 0.593,
+      "vitaminE": 6.278,
+      "vitaminK": 2.082,
+      "vitaminB1": 0.056,
+      "vitaminB2": 0.315,
+      "vitaminB3": 0.827,
+      "vitaminB5": 0.321,
+      "vitaminB6": 0.049,
+      "vitaminB12": 0.339,
+      "potassium": 194.063,
+      "magnesium": 63.452,
+      "calcium": 126.265,
+      "iron": 2.015,
+      "zinc": 0.947,
+      "copper": 0.238,
+      "phosphorus": 155.475,
+      "sodium": 173.869,
+      "selenium": 5.959,
+      "folate": 18.02,
+      "choline": 60.887,
+      "alcohol": 0.311,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.461,
+      "conjugatedLinoleicAcid": 0.001,
+      "phyticAcid": 215.57,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.065,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/fe58600a-a0b3-4b72-b0f1-691bd85f3198.png"
+  },
+  {
+    "id": "275e98e4-05d4-4071-b1e9-f4ec6393e94b",
+    "name": "Keto Coconut Lime Sorbet",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "dairy-free",
+      "desserts",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "peanut-free",
+      "pork-free",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "tree-nut-free",
+      "wheat-free"
+    ],
+    "description": "This sorbet is dairy free! A little coconut milk adds flavor and keeps the sorbet a little rich. Each bite is tart from the lime flavor and smooth from the coconut. Use as a palate cleanser or enjoy as a dessert on a hot day. \n\nThe original recipe here makes approx. 1 ½ cups sorbet.\n\nJessica L.",
+    "prepareTime": 5,
+    "cookTime": 5,
+    "ingredients": [
+      {
+        "name": "Boiling Water",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "scale": 5.333
+        }
+      },
+      {
+        "name": "Jell-o Jell-o Gelatin Dessert Sugar Free Lime Low Calorie by Kraft",
+        "servingSize": {
+          "units": "serving",
+          "desc": "1 serving",
+          "qty": 1,
+          "grams": 2,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Coconut Milk",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "grams": 80,
+          "scale": 0.333
+        }
+      },
+      {
+        "name": "Ice Or Ice Cubes",
+        "servingSize": {
+          "units": "ice cube",
+          "desc": "6 ice cube",
+          "qty": 6,
+          "grams": 126,
+          "scale": 9.081
+        }
+      }
+    ],
+    "steps": [
+      "Bring the water to a boil quickly over your stove. Once to a boil, transfer the water to a heat-safe bowl and stir in 1, .3-oz package of lime jello. Continually stir until all the gelatin is dissolved.",
+      "Pour the lime gelatin base into a blender. Add in the coconut milk and 2 ice cubes.",
+      "Blend the sorbet together. Then, keep blending in 2 ice cubes at a time until all are blended in. The sorbet will become thick and a little frothy. At your discretion, you can add even more ice cubes to make a sorbet firmer. Serve immediately."
+    ],
+    "servings": 3,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 100,
+        "units": "1/2 cup"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 57.2,
+      "caloriesKJ": 239.325,
+      "totalCarbs": 1.488,
+      "diabetesCarbsADA": 1.488,
+      "netCarbs": 1.243,
+      "diabetesCarbs": 1.244,
+      "fiber": 0.243,
+      "starch": 0,
+      "sugar": 1.187,
+      "addedSugar": 0,
+      "sugarAlcohols": 0.002,
+      "protein": 0.763,
+      "fat": 5.547,
+      "transFat": 0,
+      "monousatFat": 0.236,
+      "polyunsatFat": 0.061,
+      "omega3Fat": 0,
+      "omega6Fat": 0.061,
+      "saturatedFat": 4.919,
+      "cholesterol": 0,
+      "vitaminA": 0,
+      "vitaminC": 0.293,
+      "vitaminD": 0,
+      "vitaminE": 0.002,
+      "vitaminK": 0.027,
+      "vitaminB1": 0.006,
+      "vitaminB2": 0,
+      "vitaminB3": 0.179,
+      "vitaminB5": 0.043,
+      "vitaminB6": 0.008,
+      "vitaminB12": 0,
+      "potassium": 61.867,
+      "magnesium": 8.953,
+      "calcium": 2.327,
+      "iron": 0.216,
+      "zinc": 0.162,
+      "copper": 0.067,
+      "phosphorus": 15.733,
+      "sodium": 24.88,
+      "selenium": 0.987,
+      "folate": 3.733,
+      "choline": 2.267,
+      "alcohol": 0,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.216,
+      "conjugatedLinoleicAcid": 0,
+      "phyticAcid": 60.578,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.002,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/275e98e4-05d4-4071-b1e9-f4ec6393e94b.png"
+  },
+  {
+    "id": "fe52d404-0c37-4071-ad2e-83b2daef7482",
+    "name": "Keto Pumpkin Cheesecake Bites",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "desserts",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "meal-plan-ok",
+      "peanut-free",
+      "pork-free",
+      "quick-easy",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "tree-nut-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "Not far off from pumpkin pie, these pumpkin cheesecake bites can really hit the spot for something sweet and festive! Just 6 ingredients leaves you with a keto dessert that even non-keto gluttons will enjoy. No crust, less than 30 minutes in the oven, and plenty of spicy-sweet pumpkin flavor!\n\nJessica L.",
+    "prepareTime": 15,
+    "cookTime": 25,
+    "ingredients": [
+      {
+        "name": "Cream Cheese",
+        "servingSize": {
+          "units": "ounce",
+          "desc": "5 ounce",
+          "qty": 5,
+          "grams": 141.748,
+          "scale": 9.776
+        }
+      },
+      {
+        "name": "Stevia Leaf Noncaloric Sweetener (green Packet)",
+        "servingSize": {
+          "units": "package",
+          "desc": "2 package",
+          "qty": 2,
+          "grams": 2,
+          "scale": 2
+        }
+      },
+      {
+        "name": "Raw Egg",
+        "servingSize": {
+          "units": "large",
+          "desc": "1 large",
+          "qty": 1,
+          "grams": 50,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Pumpkin, Canned",
+        "servingSize": {
+          "units": "cup",
+          "desc": "½ cup",
+          "qty": 0.5,
+          "grams": 122.5,
+          "scale": 0.5
+        }
+      },
+      {
+        "name": "Spices Pumpkin Pie Spice",
+        "servingSize": {
+          "units": "tsp",
+          "desc": "1-¼ tsp",
+          "qty": 1.25,
+          "grams": 2.125,
+          "scale": 0.379
+        }
+      },
+      {
+        "name": "Cinnamon",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "½ teaspoon",
+          "qty": 0.5,
+          "grams": 1.3,
+          "scale": 0.5
+        }
+      }
+    ],
+    "steps": [
+      "Preheat an oven to 350 degrees. Line a mini-muffin tray with 12 paper liners. For full-sized muffin trays, this recipe should make 6 cheesecakes.",
+      "In a stand mixer with a paddle attachment, mix the cream cheese and the sugar until they are creamed together - about 4-5 minutes. The cream cheese should be soft, pliable, and mostly smooth.",
+      "Mix in the remaining ingredients. Mix the batter until it’s free of cream cheese lumps.",
+      "Spoon the batter into the liners. They can be filled almost entirely, leaving just a ⅛-inch space from the top. Give the muffin tray a tap against a counter or flat surface to settle the batter.",
+      "Bake the cheesecakes bites for 15 minutes. Then, leaving the tray in the oven, turn the heat down to 300 degrees and bake for an additional 10 minutes or until done. There should be no jiggle, and a toothpick test should come out clean.",
+      "Allow the cheesecake bites to cool and set before eating!"
+    ],
+    "servings": 12,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 17,
+        "units": "cheesecake bites"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 52.145,
+      "caloriesKJ": 218.176,
+      "totalCarbs": 1.901,
+      "diabetesCarbsADA": 1.901,
+      "netCarbs": 1.511,
+      "diabetesCarbs": 1.516,
+      "fiber": 0.38,
+      "starch": 0.092,
+      "sugar": 0.844,
+      "addedSugar": 0,
+      "sugarAlcohols": 0.011,
+      "protein": 1.378,
+      "fat": 4.563,
+      "transFat": 0.138,
+      "monousatFat": 1.228,
+      "polyunsatFat": 0.237,
+      "omega3Fat": 0.022,
+      "omega6Fat": 0.213,
+      "saturatedFat": 2.551,
+      "cholesterol": 27.472,
+      "vitaminA": 122.197,
+      "vitaminC": 0.474,
+      "vitaminD": 0.091,
+      "vitaminE": 0.259,
+      "vitaminK": 1.978,
+      "vitaminB1": 0.008,
+      "vitaminB2": 0.054,
+      "vitaminB3": 0.056,
+      "vitaminB5": 0.161,
+      "vitaminB6": 0.018,
+      "vitaminB12": 0.072,
+      "potassium": 43.512,
+      "magnesium": 4.134,
+      "calcium": 18.489,
+      "iron": 0.248,
+      "zinc": 0.126,
+      "copper": 0.015,
+      "phosphorus": 23.657,
+      "sodium": 42.871,
+      "selenium": 2.36,
+      "folate": 4.17,
+      "choline": 16.467,
+      "alcohol": 0,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.037,
+      "conjugatedLinoleicAcid": 0.016,
+      "phyticAcid": 1.838,
+      "xylitol": 0.001,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.007,
+      "mannitol": 0.002
+    },
+    "image": "https://tinyurl.com/2p82zzca/fe52d404-0c37-4071-ad2e-83b2daef7482.png"
+  },
+  {
+    "id": "23e010f1-2605-4fdc-988d-469b4981bdff",
+    "name": "Sea Salt Fudgy Keto Brownies",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "desserts",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "meal-plan-ok",
+      "peanut-free",
+      "pescatarian",
+      "pork-free",
+      "quick-easy",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "These brownies whip up in less than 10 minutes and are super delicious when chilled and served with homemade whipped cream!  The trick here is to use a dark cocoa powder and to be careful not to overbake to ensure delicious, fudgy brownies!  The sea salt is totally optional.\n\nNote:  I have updated the recipe to include more sweeter!  It should have more flavor at this point.",
+    "prepareTime": 5,
+    "cookTime": 12,
+    "ingredients": [
+      {
+        "name": "Butter",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "9 tablespoon",
+          "qty": 9,
+          "grams": 127.8,
+          "scale": 1.278
+        }
+      },
+      {
+        "name": "Cocoa Powder",
+        "servingSize": {
+          "units": "tbsp",
+          "desc": "4 tbsp",
+          "qty": 4,
+          "grams": 21.6,
+          "scale": 0.216
+        }
+      },
+      {
+        "name": "Egg",
+        "servingSize": {
+          "units": "large",
+          "desc": "3 large",
+          "qty": 3,
+          "grams": 150,
+          "scale": 1.5
+        }
+      },
+      {
+        "name": "Baking Powder",
+        "servingSize": {
+          "units": "tsp",
+          "desc": "½ tsp",
+          "qty": 0.5,
+          "grams": 2.5,
+          "scale": 0.025
+        }
+      },
+      {
+        "name": "Almond Flour by Bob's Red Mill",
+        "servingSize": {
+          "units": "cup",
+          "desc": "½ cup",
+          "qty": 0.5,
+          "grams": 56,
+          "scale": 0.5
+        }
+      },
+      {
+        "name": "The Ultimate Icing Sugar Replacement by Swerve",
+        "servingSize": {
+          "units": "cup",
+          "desc": "½ cup",
+          "qty": 0.5,
+          "grams": 120,
+          "scale": 24
+        }
+      }
+    ],
+    "steps": [
+      "Line an 8” x 8” baking pan with parchment paper.  Then in a microwave safe bowl, melt the butter, sweetener and cocoa powder on high for 50 secs.  Stir and make sure everything is completely melted.  Let mixture cool slightly.",
+      "Add eggs and stir until completely combined.",
+      "Add almond flour and baking powder.  Stir until just combined.  Pour into prepared baking pan.",
+      "Bake at 350 F for 11-12 mins or until brownies are just set but still giggly.  Place brownies in the freezer until firm enough to cut."
+    ],
+    "servings": 16,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 100,
+        "units": "brownies",
+        "originalWeight": 100,
+        "originalWeightUnits": "g"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 96.906,
+      "caloriesKJ": 83.68,
+      "totalCarbs": 6.183,
+      "diabetesCarbsADA": 3.521,
+      "netCarbs": 0.856,
+      "diabetesCarbs": 0.856,
+      "fiber": 0.827,
+      "sugar": 0.226,
+      "sugarAlcohols": 4.5,
+      "protein": 2.261,
+      "fat": 9.346,
+      "monousatFat": 2.098,
+      "polyunsatFat": 0.377,
+      "saturatedFat": 4.628,
+      "cholesterol": 56.829,
+      "vitaminA": 67.759,
+      "vitaminC": 0,
+      "vitaminD": 0.232,
+      "vitaminE": 1.158,
+      "vitaminK": 0.621,
+      "vitaminB1": 0.008,
+      "vitaminB2": 0.051,
+      "vitaminB3": 0.039,
+      "vitaminB6": 0.015,
+      "vitaminB12": 0.135,
+      "potassium": 50.835,
+      "magnesium": 18.067,
+      "calcium": 22.883,
+      "iron": 0.508,
+      "zinc": 0.204,
+      "copper": 0.061,
+      "phosphorus": 40.465,
+      "sodium": 59.557,
+      "selenium": 3.245,
+      "folate": 5.078,
+      "choline": 25.204
+    },
+    "image": "https://tinyurl.com/2p82zzca/23e010f1-2605-4fdc-988d-469b4981bdff.png"
+  },
+  {
+    "id": "d7a89567-c68c-4cb4-b73d-03ce700329e0",
+    "name": "Keto Simple Chocolate Ganache Tart",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "desserts",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "meal-plan-ok",
+      "peanut-free",
+      "pescatarian",
+      "pork-free",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "You will love this chocolate ganache tart!  The crust is made with almond flour and butter and then browned nicely in the oven.  The tart crust is then cooled and filled with the most luscious chocolate ganache filling.  Feel free to top the tart with fresh raspberries, toasted almonds or flaky sea salt!",
+    "prepareTime": 20,
+    "cookTime": 12,
+    "ingredients": [
+      {
+        "name": "Almond Flour",
+        "servingSize": {
+          "units": "cup",
+          "desc": "2 cup",
+          "qty": 2,
+          "grams": 224,
+          "scale": 2
+        }
+      },
+      {
+        "name": "The Ultimate Icing Sugar Replacement by Swerve",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "6 tablespoon",
+          "qty": 6,
+          "grams": 90,
+          "scale": 18
+        }
+      },
+      {
+        "name": "Butter",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "6 tablespoon",
+          "qty": 6,
+          "grams": 85,
+          "scale": 6
+        }
+      },
+      {
+        "name": "Chocolate Chips, Sugar Free",
+        "servingSize": {
+          "units": "ounce",
+          "desc": "14-½ ounce",
+          "qty": 14.5,
+          "grams": 411,
+          "scale": 39.149
+        }
+      },
+      {
+        "name": "Heavy Cream",
+        "servingSize": {
+          "units": "cup",
+          "desc": "1-½ cup",
+          "qty": 1.5,
+          "grams": 357,
+          "scale": 24
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 4,
+          "scale": 1
+        }
+      }
+    ],
+    "steps": [
+      "Preheat an oven to 350 F.  Melt the butter in a microwave safe bowl.  Add the almond flour, Swerve and a good pinch of salt.  Mix to combine well.  ",
+      "Then pour into an 11” tart pan, pressing the dough into the bottom and up the edges evenly.",
+      "Use your thumb to press the crust up the sides of the tart pan and then level the crust off by scraping your thumb on the top of the tart pan to break the crust and make it even.  ",
+      "Bake the crust for 12-13 minutes or until the crust is very nicely browned.  Set aside and allow to cool while you make the ganache filling.",
+      "In a small saucepan, heat the cream until it is boiling.  Add chocolate chips to a bowl.  Once the cream is boiling, pour the cream through a strainer into the bowl of chocolate chips.  Stir briefly, but not much.  Allow the chocolate and cream to sit for 5 minutes without touching it.  ",
+      "Once 5 minutes have elapsed, stir the chocolate and cream together into a beautiful ganache.  Also add the vanilla and stir in.",
+      "Pour ganache into the tart crust and spread evenly with a spatula.  ",
+      "Chill in the fridge for at least 4 hours before slicing.  ",
+      "Gently remove the tart from the mold.  Then using a hot knife (ran under hot water and dried), cut the tart into 16 even slices."
+    ],
+    "servings": 16,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 77.963,
+        "units": "slices (2.75 oz each-16 slices total)"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 300.304,
+      "caloriesKJ": 1256.471,
+      "totalCarbs": 22.829,
+      "diabetesCarbsADA": 15.127,
+      "netCarbs": 3.341,
+      "diabetesCarbs": 11.044,
+      "fiber": 4.083,
+      "starch": 0.986,
+      "sugar": 1.493,
+      "addedSugar": 0,
+      "sugarAlcohols": 15.405,
+      "protein": 4.957,
+      "fat": 27.21,
+      "transFat": 0.453,
+      "monousatFat": 10.189,
+      "polyunsatFat": 2.442,
+      "omega3Fat": 0.058,
+      "omega6Fat": 2.384,
+      "saturatedFat": 13.054,
+      "cholesterol": 36.652,
+      "vitaminA": 128.137,
+      "vitaminC": 0.134,
+      "vitaminD": 0.365,
+      "vitaminE": 3.832,
+      "vitaminK": 2.951,
+      "vitaminB1": 0.037,
+      "vitaminB2": 0.185,
+      "vitaminB3": 0.66,
+      "vitaminB5": 0.187,
+      "vitaminB6": 0.032,
+      "vitaminB12": 0.045,
+      "potassium": 231.221,
+      "magnesium": 73.216,
+      "calcium": 59.364,
+      "iron": 1.462,
+      "zinc": 0.948,
+      "copper": 0.406,
+      "phosphorus": 131.094,
+      "sodium": 43.255,
+      "selenium": 2.208,
+      "folate": 9.681,
+      "choline": 12.746,
+      "alcohol": 0.269,
+      "caffeine": 15.934,
+      "gluten": 0,
+      "manganese": 0.542,
+      "conjugatedLinoleicAcid": 0.057,
+      "phyticAcid": 261.048,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 11.989,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.038,
+      "mannitol": 0.002
+    },
+    "image": "https://tinyurl.com/2p82zzca/d7a89567-c68c-4cb4-b73d-03ce700329e0.png"
+  },
+  {
+    "id": "e810d35d-a164-4ad5-a566-d8849ac45e7a",
+    "name": "Low Carb Dirty Chai Cheesecake Truffles",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "desserts",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "kid-friendly",
+      "peanut-free",
+      "pork-free",
+      "shellfish-free",
+      "tree-nut-free",
+      "vegetarian"
+    ],
+    "description": "You won’t feel dirty, but you might feel a little ‘naughty’ after biting into one of these dirty chai cheesecake truffles. Yes, they are Keto! Cream cheese truffles are flavored with coffee brewed with chai tea. The infused coffee flavors the whole truffle and is wrapped in a coating of Keto dark chocolate. To get a result like you see in this recipe, you’ll need to use non-dairy, sugar-free 100% dark chocolate chips. You’ll most likely find this product where other special dietary foods are shelved at your grocery store. If you can’t find this type of chocolate, look for unsweetened 100% dark chocolate in the baking aisle. Keep the truffles in your freezer or your refrigerator - your choice. Enjoy them as a dessert or whenever you need a sweet fat bomb to get you through the afternoon.\n\n### Truffle Toppings\n\nTypically, the truffles you see in shops and bakeries are decorated with a topping that reflects the flavors inside the truffle. For this dirty chai cheesecake truffle, you could choose a spice that complements the chai flavors, such as a pinch of cinnamon or cardamom. Since there is coffee in the truffle, a single coffee bean is a Keto-friendly decoration that can go on top. If you don’t want to add anything to the truffles, use a toothpick to swirl a little design in the wet chocolate before it sets.\n\n### What Are The White Dots On My Chocolate?\n\nAssuming you are not a seasoned pastry chef or baker, it’s possible your truffles may show some white specs or streaks within the chocolate coating after they set. Don’t be alarmed! These are the fats or oils separating from the liquid part that makes chocolate. Your chocolate has not gone bad, and it won’t taste any different. This separation is what naturally happens when chocolate goes through temperature changes.\n\nJessica L.",
+    "prepareTime": 660,
+    "cookTime": 10,
+    "ingredients": [
+      {
+        "name": "Coffee",
+        "servingSize": {
+          "units": "tbsp",
+          "qty": 1,
+          "grams": 14.8,
+          "scale": 0.5
+        }
+      },
+      {
+        "name": "Spiced Chai Tea Bags",
+        "servingSize": {
+          "units": "bag",
+          "qty": 1,
+          "grams": 3,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Cream cheese",
+        "servingSize": {
+          "units": "oz",
+          "qty": 4,
+          "grams": 113.398,
+          "scale": 7.821
+        }
+      },
+      {
+        "name": "Butter, unsalted",
+        "servingSize": {
+          "units": "tbsp",
+          "qty": 2,
+          "grams": 28.376,
+          "scale": 2
+        }
+      },
+      {
+        "name": "The Ultimate Icing Sugar Replacement",
+        "servingSize": {
+          "units": "tsp",
+          "qty": 2,
+          "grams": 10,
+          "scale": 2
+        }
+      },
+      {
+        "name": "Salt",
+        "servingSize": {
+          "units": "dash",
+          "qty": 1,
+          "grams": 0.4,
+          "scale": 0.066
+        }
+      },
+      {
+        "name": "Vanilla extract",
+        "servingSize": {
+          "units": "tsp",
+          "qty": 0.125,
+          "grams": 0.541,
+          "scale": 0.125
+        }
+      },
+      {
+        "name": "Vegan Dark Chocolate Morsels",
+        "servingSize": {
+          "units": "cup",
+          "qty": 0.333,
+          "grams": 79.92,
+          "scale": 5.328
+        }
+      }
+    ],
+    "steps": [
+      "You’ll need to brew coffee before you can make the truffle filling. Brew a full cup of coffee, and set 1 bag of chai tea per cup to steep for 5 minutes. After steeping, discard the teabag and set the coffee aside to cool. While you will only need a small amount of your chai coffee, you’ll have to make enough to steep the teabag reasonably. You can choose to discard any remaining coffee or utilize the remainder at the end of the recipe.",
+      "To make the truffle filling, blend cream cheese in a stand mixer until the cream cheese is soft and spreadable. You can leave the cream cheese out at room temperature for 15-20 minutes prior to making the recipe so it is softened. Once the cream cheese is aerated, add butter cut into pieces. Continue mixing until both the butter and cream cheese are blended together free of lumps. Mix in Swerve, salt, vanilla extract, and the listed amount of coffee until blended.",
+      "Transfer the truffle filling to a smaller container, cover it, and set it in your freezer to chill. Chill the truffle filling for a minimum of 2 hours until the filling is thick enough to scoop like ice cream. This may take up to 4 or more hours, depending on your freezer and how much you’re making. When the filling is firm enough, line a sheet tray with parchment paper. Scoop 1 ½ TB of filling and roll it into a ball between your palms. Repeat until all the truffles are formed.",
+      "Set the tray of truffles back in your freezer to chill overnight. Now, you want them completely frozen - 8 hours or more. The next day, you’ll need to prepare the chocolate for dipping. Create a double boiler by placing a heat-safe bowl over a pot filled with 1 inch of water. Heat the double boiler until the water is simmering but not creating rising steam. Place the chocolate chips in the bowl, and continually stir the chocolate until it melts.",
+      "Remove the bowl of chocolate off the heat, leaving the pot behind. Set the hot bowl on a potholder or cloth, and stir the chocolate as it cools. Continue stirring until the chocolate thickens for dipping. Pull your tray of truffles out of the freezer. One by one, use a fork to dip a frozen truffle in the chocolate, let excess chocolate drip off, and return the truffle to the parchment paper.",
+      "Repeat the dipping process until all the truffles are complete. At your discretion, you can choose to add decoration or Keto topping to the truffle. The truffles photographed here are topped with an extra drizzled design of dark chocolate. Return your tray of truffles to the freezer one final time to set for 30 minutes. After setting, you can keep the truffles in the freezer for a cold treat or store them in the refrigerator for a softer, chilled truffle. The truffles will always be best stored in the refrigerator and should not be left out at room temperature."
+    ],
+    "servings": 8,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 26,
+        "units": "piece",
+        "originalWeight": 26,
+        "originalWeightUnits": "g"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 122.376,
+      "caloriesKJ": 509.93,
+      "totalCarbs": 6.88,
+      "diabetesCarbsADA": 5.839,
+      "netCarbs": 4.788,
+      "diabetesCarbs": 4.789,
+      "fiber": 1.341,
+      "starch": 0.05,
+      "sugar": 3.874,
+      "addedSugar": 0,
+      "sugarAlcohols": 0.751,
+      "protein": 1.571,
+      "fat": 11.755,
+      "transFat": 0.282,
+      "monousatFat": 2.094,
+      "polyunsatFat": 0.317,
+      "omega3Fat": 0.033,
+      "omega6Fat": 0.284,
+      "saturatedFat": 6.987,
+      "cholesterol": 21.942,
+      "vitaminA": 67.931,
+      "vitaminC": 0,
+      "vitaminD": 0.009,
+      "vitaminE": 0.204,
+      "vitaminK": 0.548,
+      "vitaminB1": 0.004,
+      "vitaminB2": 0.035,
+      "vitaminB3": 0.018,
+      "vitaminB5": 0.082,
+      "vitaminB6": 0.008,
+      "vitaminB12": 0.037,
+      "potassium": 20.573,
+      "magnesium": 1.411,
+      "calcium": 14.657,
+      "iron": 1.815,
+      "zinc": 0.075,
+      "copper": 0.003,
+      "phosphorus": 16.078,
+      "sodium": 64.319,
+      "selenium": 1.255,
+      "folate": 1.419,
+      "choline": 4.514,
+      "alcohol": 0.023,
+      "caffeine": 0.74,
+      "gluten": 0,
+      "manganese": 0.002,
+      "conjugatedLinoleicAcid": 0.037,
+      "phyticAcid": 0.13,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.001,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/e810d35d-a164-4ad5-a566-d8849ac45e7a.png"
+  },
+  {
+    "id": "133e5c6c-cfe5-4155-83da-533ae3b99d12",
+    "name": "Best Keto Blueberry Muffins",
+    "tags": [
+      "beef-free",
+      "breakfast",
+      "chicken-free",
+      "dairy-free",
+      "desserts",
+      "eggs",
+      "fish-free",
+      "gluten-free",
+      "good-for-leftovers",
+      "keto",
+      "kid-friendly",
+      "low-carb",
+      "paleo",
+      "peanut-free",
+      "pescatarian",
+      "pork-free",
+      "quick-easy",
+      "shellfish-free",
+      "snacks",
+      "soy-free",
+      "sulphites",
+      "tree-nut-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "Who says you can’t eat muffins on a Keto diet? In fact, you can make healthy Keto blueberry muffins every week if you want to! These muffins are a classic recipe and easy to follow. Only a few ingredient tweaks have been made to make a more Keto-friendly muffin. Don’t worry, you CAN eat berries on the Keto diet. A few tucked into a soft muffin is a genius way to enjoy some fruit without having too many carbs. Eat a muffin for breakfast, as a snack, or as a side with your lunch. They’re easy to wrap up and take with you to work or serve a fresh batch on a Sunday morning.\n\n**Make the muffins healthier**\n\nWant to make the muffins friendlier for all to eat? Choose alternative milk. You can replace almond milk with oat milk and even replace the almond flour with coconut flour for anyone with tree nut allergies.\n\n**Tips for using blueberries**\n\nBlueberries are notorious for bursting and bleeding in batter while you mix them in. Here’s a tip: freeze your blueberries before you use them in the recipe. You can even dust frozen blueberries in almond flour before mixing them in to help the blueberries stay in place in the muffin batter while the muffins bake.\n\n**Storage tips**\n\nWait for the muffins to cool entirely before sealing them in a Ziploc bag. You can also wrap the muffins individually in plastic wrap. Muffins are great for taking on the go for breakfast or a snack, so keep them in your refrigerator for the most freshness for up to 5 days.",
+    "prepareTime": 12,
+    "cookTime": 25,
+    "ingredients": [
+      {
+        "name": "Almond Flour",
+        "servingSize": {
+          "units": "cup",
+          "desc": "3 cup",
+          "qty": 3,
+          "grams": 336,
+          "scale": 3
+        }
+      },
+      {
+        "name": "The Ultimate Sugar Replacement Granular by Swerve",
+        "servingSize": {
+          "units": "cup",
+          "desc": "½ cup",
+          "qty": 0.5,
+          "scale": 24
+        }
+      },
+      {
+        "name": "Baking Powder",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1-½ teaspoon",
+          "qty": 1.5,
+          "grams": 6.9,
+          "scale": 1.5
+        }
+      },
+      {
+        "name": "Coarse Kosher Salt by Morton",
+        "servingSize": {
+          "units": "tsp",
+          "desc": "¼ tsp",
+          "qty": 0.25,
+          "grams": 1.2,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Coconut Oil",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "grams": 72.669,
+          "scale": 5.333
+        }
+      },
+      {
+        "name": "Raw Egg",
+        "servingSize": {
+          "units": "large",
+          "desc": "3 large",
+          "qty": 3,
+          "grams": 150,
+          "scale": 3
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "0.5 teaspoon",
+          "qty": 0.5,
+          "grams": 2.166,
+          "scale": 0.5
+        }
+      },
+      {
+        "name": "Blueberries",
+        "servingSize": {
+          "units": "cup, whole pieces",
+          "desc": "1 cup, whole pieces",
+          "qty": 1,
+          "grams": 147.999,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Almond Milk",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅓ cup",
+          "qty": 0.333,
+          "grams": 80,
+          "scale": 0.333
+        }
+      }
+    ],
+    "steps": [
+      "Preheat an oven to 350 F (180 C). Line a muffin pan with 12 muffin liners. In a large mixing bowl, stir together the almond flour, sweetener, baking powder and salt.",
+      "Mix the coconut oil into the dry ingredients. Leave the coconut oil solid at room temperature for the best mixing process. Combine until the mixture has small pea sized pieces of coconut oil running through it.",
+      "Add milk, eggs, and vanilla extract to the batter. Stir the batter completely by hand or in a stand mixer. You may still see small streaks of coconut oil in the batter, which is okay.",
+      "Fold the blueberries into the muffin batter. It may help you to freeze the blueberries before using them in the recipe. This way, they’re less likely to break and bleed into your batter.",
+      "Divide the batter across the muffin cups until they’re ¾ full or slightly more. Bake the muffins for 25 minutes or until the tops are golden and the muffins are cooked through. You can test for doneness by pushing a toothpick in the center of a muffin, checking for a clean toothpick as you remove it."
+    ],
+    "servings": 12,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 100,
+        "units": "muffins",
+        "originalWeight": 100,
+        "originalWeightUnits": "g"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 246.583,
+      "caloriesKJ": 1014.967,
+      "totalCarbs": 15.618,
+      "diabetesCarbsADA": 10.099,
+      "netCarbs": 4.189,
+      "diabetesCarbs": 4.227,
+      "fiber": 3.351,
+      "starch": 0.403,
+      "sugar": 2.635,
+      "addedSugar": 0,
+      "sugarAlcohols": 8.078,
+      "protein": 7.533,
+      "fat": 21.522,
+      "transFat": 0.007,
+      "monousatFat": 9.879,
+      "polyunsatFat": 3.703,
+      "omega3Fat": 0.018,
+      "omega6Fat": 3.685,
+      "saturatedFat": 6.478,
+      "cholesterol": 46.625,
+      "vitaminA": 23.223,
+      "vitaminC": 1.196,
+      "vitaminD": 0.341,
+      "vitaminE": 7.233,
+      "vitaminK": 2.454,
+      "vitaminB1": 0.067,
+      "vitaminB2": 0.319,
+      "vitaminB3": 1.04,
+      "vitaminB5": 0.297,
+      "vitaminB6": 0.056,
+      "vitaminB12": 0.139,
+      "potassium": 234.086,
+      "magnesium": 76.376,
+      "calcium": 122.173,
+      "iron": 1.223,
+      "zinc": 0.99,
+      "copper": 0.292,
+      "phosphorus": 168.207,
+      "sodium": 124.301,
+      "selenium": 4.858,
+      "folate": 19.125,
+      "choline": 51.848,
+      "alcohol": 0.067,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.593,
+      "conjugatedLinoleicAcid": 0.001,
+      "phyticAcid": 260.366,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.078,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/133e5c6c-cfe5-4155-83da-533ae3b99d12.png"
+  },
+  {
+    "id": "79b9cac6-161a-4da4-93f7-ad3683a5a31c",
+    "name": "Keto Vegan Lemon and Berry Syllabub",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "dairy-free",
+      "desserts",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "peanut-free",
+      "pork-free",
+      "shellfish-free",
+      "soy-free",
+      "tree-nut-free",
+      "vegan",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "This vegan Keto dessert recipe is quick and easy to prepare and requires only 5 ingredients. Our simple low carb dessert is made with chilled coconut cream, powdered erythritol, fresh lemon juice, juicy strawberries, and raspberries. This makes a great vegan Keto treat, perfect for summer dining.\n\n### Can I Use Coconut Milk?\n\nWe have used chilled coconut cream for our vegan-friendly Keto syllabub. Coconut cream is the thick cream that forms at the top of a can of coconut milk. It makes a great plant-based alternative to heavy cream and can be whipped to create a smooth and fluffy consistency. You can buy coconut cream on its own, or if this is difficult to find, you can refrigerate a can of coconut milk, and once solid, simply scoop the firm cream from the top of the can. It is important to chill the coconut cream to allow it to be firm enough to whip. You do not want to use the liquid part of the coconut milk - this can be reserved for a separate recipe or smoothie.\n\n### Can I Use a Different Sweetener?\n\nWe have used powdered erythritol for our vegan Keto dessert recipe. Powdered sweetener blends well with coconut cream to create a smooth dessert consistency. You may use any powdered low carb sweetener you prefer or even stevia drops if desired, adjusting quantities to taste. Please be sure to adjust your macros to account for any changes made to the original recipe.",
+    "prepareTime": 15,
+    "cookTime": 0,
+    "ingredients": [
+      {
+        "name": "Raspberries",
+        "servingSize": {
+          "units": "each",
+          "qty": 8,
+          "grams": 15.2,
+          "scale": 0.124
+        }
+      },
+      {
+        "name": "100% Natural Powdered Erythitol",
+        "servingSize": {
+          "units": "tbsp",
+          "qty": 2,
+          "grams": 24,
+          "scale": 6
+        }
+      },
+      {
+        "name": "Lemon juice",
+        "servingSize": {
+          "units": "tbsp",
+          "qty": 2,
+          "grams": 30.499,
+          "scale": 6
+        }
+      },
+      {
+        "name": "Strawberries",
+        "servingSize": {
+          "units": "large - 1 3/8\" diameter",
+          "qty": 2,
+          "grams": 36,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Coconut cream (liquid from grated meat)",
+        "servingSize": {
+          "units": "cup",
+          "qty": 1.667,
+          "grams": 400.071,
+          "scale": 26.671
+        }
+      }
+    ],
+    "steps": [
+      "Add the chilled coconut cream to a large mixing bowl. Add the powdered erythritol and lemon juice. Whisk the coconut cream, sweetener, and lemon vigorously for 5 minutes until soft peaks form, and you have a thick whipped cream consistency. Taste and stir through extra lemon or sweetener as desired.",
+      "Select 4 ramekins. Slice the strawberries into quarters lengthwise. Slice the raspberries in half lengthwise. Lay a 1/4 of a strawberry and two raspberry halves in the base of each ramekin. Divide the whipped coconut cream evenly between the four ramekins.",
+      "Decorate the tops of the coconut syllabubs with the remaining sliced berries. Serve immediately, or cover the desserts and refrigerate until ready to eat."
+    ],
+    "servings": 4,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 90.72,
+        "units": "bowl"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 342.592,
+      "caloriesKJ": 1433.403,
+      "totalCarbs": 14.323,
+      "diabetesCarbsADA": 10.222,
+      "netCarbs": 5.644,
+      "diabetesCarbs": 8.658,
+      "fiber": 2.65,
+      "starch": 0.004,
+      "sugar": 5.041,
+      "addedSugar": 0,
+      "sugarAlcohols": 6.029,
+      "protein": 3.764,
+      "fat": 34.756,
+      "transFat": 0,
+      "monousatFat": 1.483,
+      "polyunsatFat": 0.41,
+      "omega3Fat": 0.011,
+      "omega6Fat": 0.399,
+      "saturatedFat": 30.764,
+      "cholesterol": 0,
+      "vitaminA": 0.135,
+      "vitaminC": 12.039,
+      "vitaminD": 0,
+      "vitaminE": 0.226,
+      "vitaminK": 2.588,
+      "vitaminB1": 0.035,
+      "vitaminB2": 0.005,
+      "vitaminB3": 0.955,
+      "vitaminB5": 0.294,
+      "vitaminB6": 0.056,
+      "vitaminB12": 0,
+      "potassium": 352.42,
+      "magnesium": 30.468,
+      "calcium": 13.849,
+      "iron": 2.35,
+      "zinc": 0.993,
+      "copper": 0.386,
+      "phosphorus": 125.894,
+      "sodium": 4.205,
+      "selenium": 1.051,
+      "folate": 27.488,
+      "choline": 12.671,
+      "alcohol": 0,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 1.365,
+      "conjugatedLinoleicAcid": 0,
+      "phyticAcid": 621.116,
+      "xylitol": 0.004,
+      "isomalt": 0,
+      "sorbitol": 0.003,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.021,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/79b9cac6-161a-4da4-93f7-ad3683a5a31c.png"
+  },
+  {
+    "id": "9fb21503-0af6-45bf-9a84-d6d1f5ff7a79",
+    "name": "Keto Raspberry Jam Mug Cake",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "desserts",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "meal-plan-ok",
+      "peanut-free",
+      "pescatarian",
+      "pork-free",
+      "quick-easy",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "tree-nut-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "This mug cake is so quick to pull together!  The flavors from the coconut flour, sour cream, and raspberry jam make for such a lovely, moist and soft cake!  Delicious as a breakfast cake thanks to good protein from an egg.",
+    "prepareTime": 4,
+    "cookTime": 1,
+    "ingredients": [
+      {
+        "name": "Butter",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "grams": 14,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Sour Cream",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "grams": 14,
+          "scale": 1
+        }
+      },
+      {
+        "name": "The Ultimate Icing Sugar Replacement by Swerve",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "grams": 15,
+          "scale": 3
+        }
+      },
+      {
+        "name": "Coconut Flour by Bob's Red Mill",
+        "servingSize": {
+          "units": "tbsp",
+          "desc": "1 tbsp",
+          "qty": 1,
+          "grams": 7,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Baking Powder",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "¼ teaspoon",
+          "qty": 0.25,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 4,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Raw Egg",
+        "servingSize": {
+          "units": "large",
+          "desc": "1 large",
+          "qty": 1,
+          "grams": 50,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Red Raspberry Preserves Sugar Free by Smucker's",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 6,
+          "scale": 0.333
+        }
+      }
+    ],
+    "steps": [
+      "In a microwave-safe mug, melt the butter in the microwave.",
+      "Add in the sour cream, confectioner’s sugar, coconut flour, baking powder, vanilla extract, and egg.  Mix well with a spoon to combine.",
+      "Drop in the raspberry jam.  If the jam is slightly warmed it will swirl better.  Swirl in the jam with a butter knife.  Then microwave the cake on HIGH for 50-60 seconds (adding more or less time depending on your microwave).  You will know when the cake is done when it is puffed and there is no liquid on the bottom.  Enjoy!"
+    ],
+    "servings": 1,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 100,
+        "units": "mug cake"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 260.11,
+      "caloriesKJ": 1088.3,
+      "totalCarbs": 16.767,
+      "diabetesCarbsADA": 12.26,
+      "netCarbs": 4.25,
+      "diabetesCarbs": 8.758,
+      "fiber": 3.502,
+      "starch": 0.316,
+      "sugar": 2.107,
+      "addedSugar": 0,
+      "sugarAlcohols": 9.015,
+      "protein": 7.766,
+      "fat": 20.597,
+      "transFat": 0.592,
+      "monousatFat": 5.681,
+      "polyunsatFat": 1.254,
+      "omega3Fat": 0.092,
+      "omega6Fat": 1.161,
+      "saturatedFat": 11.38,
+      "cholesterol": 225.484,
+      "vitaminA": 189.432,
+      "vitaminC": 0.13,
+      "vitaminD": 1.123,
+      "vitaminE": 0.899,
+      "vitaminK": 1.358,
+      "vitaminB1": 0.037,
+      "vitaminB2": 0.29,
+      "vitaminB3": 0.072,
+      "vitaminB5": 0.783,
+      "vitaminB6": 0.067,
+      "vitaminB12": 0.609,
+      "potassium": 91.016,
+      "magnesium": 9.551,
+      "calcium": 110.974,
+      "iron": 1.638,
+      "zinc": 0.59,
+      "copper": 0.014,
+      "phosphorus": 125.786,
+      "sodium": 296.637,
+      "selenium": 16.776,
+      "folate": 23.288,
+      "choline": 152.327,
+      "alcohol": 1.492,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.023,
+      "conjugatedLinoleicAcid": 0.056,
+      "phyticAcid": 0,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.015,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/9fb21503-0af6-45bf-9a84-d6d1f5ff7a79.png"
+  }
+]

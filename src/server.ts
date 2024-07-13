@@ -14,7 +14,7 @@ const app = express();
 app.use(
   cors({
     origin: "http://localhost:3001",
-    methods: ["GET", "POST"], // Add other HTTP methods if needed
+    methods: ["GET", "POST", "PATCH"], // Add other HTTP methods if needed
     credentials: true, // Allow cookies to be sent
   })
 );
@@ -22,10 +22,15 @@ app.use(
 app.use(morgan("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extends: true }));
+app.use((req, res, next) => {
+  console.log(`Incoming request: ${req.method} ${req.url}`);
+  next();
+});
 
 /**
  * Our API
  */
+
 app.use("/api", protect, router);
 app.post("/signin", createUser);
 app.post("/login", loginUser);

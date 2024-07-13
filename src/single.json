@@ -1,0 +1,206 @@
+{
+  "id": "c709e459-7029-4bbb-bd43-feefbe811b1a",
+  "name": "Keto Funfetti Cake",
+  "tags": [
+    "meal-plan-ok",
+    "kid-friendly",
+    "paleo",
+    "vegetarian",
+    "pescatarian",
+    "dairy-free",
+    "gluten-free",
+    "wheat-free",
+    "peanut-free",
+    "soy-free",
+    "fish-free",
+    "shellfish-free",
+    "pork-free",
+    "beef-free",
+    "chicken-free",
+    "keto",
+    "lchf",
+    "relevant-meal--desserts"
+  ],
+  "description": "Do you miss vanilla funfetti cake?  Here is a great keto version made with all natural ingredients.  The funfetti colors are made with crushed dried blueberries and strawberries instead of artificial colored sprinkles.  The dried funfetti fruit is encased with delicious, moist almond vanilla cake.  Better yet this is dairy-free and vegetarian! \n\nThe freeze dried fruit was weighed in ounces.  It was 3 T freeze dried blueberries and 3 T freeze dried strawberries.",
+  "prepareTime": 20,
+  "cookTime": 35,
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "servingSize": {
+        "units": "cup",
+        "desc": "3 cup",
+        "qty": 3,
+        "grams": 336,
+        "scale": 3
+      }
+    },
+    {
+      "name": "The Ultimate Icing Sugar Replacement by Swerve",
+      "servingSize": {
+        "units": "cup",
+        "desc": "¾ cup",
+        "qty": 0.75,
+        "grams": 180,
+        "scale": 36
+      }
+    },
+    {
+      "name": "Coarse Kosher Salt by Morton",
+      "servingSize": {
+        "units": "tsp",
+        "desc": "¼ tsp",
+        "qty": 0.25,
+        "scale": 0.25
+      }
+    },
+    {
+      "name": "Baking Powder",
+      "servingSize": {
+        "units": "teaspoon",
+        "desc": "2 teaspoon",
+        "qty": 2,
+        "grams": 9,
+        "scale": 2
+      }
+    },
+    {
+      "name": "Coconut Oil",
+      "servingSize": {
+        "units": "cup",
+        "desc": "½ cup",
+        "qty": 0.5,
+        "grams": 109,
+        "scale": 8
+      }
+    },
+    {
+      "name": "Raw Egg",
+      "servingSize": {
+        "units": "large",
+        "desc": "2 large",
+        "qty": 2,
+        "grams": 100,
+        "scale": 2
+      }
+    },
+    {
+      "name": "Vanilla Extract",
+      "servingSize": {
+        "units": "teaspoon",
+        "desc": "2 teaspoon",
+        "qty": 2,
+        "grams": 9,
+        "scale": 2
+      }
+    },
+    {
+      "name": "Almond Milk",
+      "servingSize": {
+        "units": "cup",
+        "desc": "½ cup",
+        "qty": 0.5,
+        "grams": 120,
+        "scale": 0.5
+      }
+    },
+    {
+      "name": "Freeze Dried Blueberries by Trader Joe's",
+      "servingSize": {
+        "units": "ounce",
+        "desc": "⅛ ounce",
+        "qty": 0.125,
+        "grams": 4,
+        "scale": 0.104
+      }
+    },
+    {
+      "name": "Freeze Dried Strawberries by Open Nature",
+      "servingSize": {
+        "units": "ounce",
+        "desc": "¼ ounce",
+        "qty": 0.25,
+        "grams": 7,
+        "scale": 0.787
+      }
+    }
+  ],
+  "steps": [
+    "Preheat an oven to 350 F. Prepare an 8” round cake pan by spraying it with cooking spray Combine the dry ingredients together (almond flour, 1 cup Swerve, baking powder, and kosher salt).",
+    "Add the coconut oil and mix until combined.  It is ok if it’s lumpy.  Add the eggs and vanilla extract.  ",
+    "Heat the almond milk in the microwave until hot.  Add this to the mixture and mix well until combined.",
+    "Crush the dried fruit in a bag using a rolling pin.  ",
+    "Add it to it the batter and gently fold it in a few times.",
+    "Pour batter into the prepared round cake pan.",
+    " Bake for 30-35 minutes until nicely browned and cooked through."
+  ],
+  "servings": 16,
+  "servingSizes": [
+    {
+      "scale": 1,
+      "qty": 1,
+      "grams": 42.525,
+      "units": "servings (1.5 oz each)"
+    }
+  ],
+  "nutrients": {
+    "caloriesKCal": 200.71,
+    "caloriesKJ": 839.772,
+    "totalCarbs": 11.787,
+    "diabetesCarbsADA": 8.383,
+    "netCarbs": 2.592,
+    "diabetesCarbs": 5.996,
+    "fiber": 2.387,
+    "starch": 0.339,
+    "sugar": 1.532,
+    "addedSugar": 0,
+    "sugarAlcohols": 6.808,
+    "protein": 5.256,
+    "fat": 18.056,
+    "transFat": 0.006,
+    "monousatFat": 7.438,
+    "polyunsatFat": 2.765,
+    "omega3Fat": 0.007,
+    "omega6Fat": 2.758,
+    "saturatedFat": 6.628,
+    "cholesterol": 23.312,
+    "vitaminA": 14.066,
+    "vitaminC": 3.272,
+    "vitaminD": 0.214,
+    "vitaminE": 5.446,
+    "vitaminK": 0.06,
+    "vitaminB1": 0.045,
+    "vitaminB2": 0.22,
+    "vitaminB3": 0.743,
+    "vitaminB5": 0.168,
+    "vitaminB6": 0.033,
+    "vitaminB12": 0.069,
+    "potassium": 172.712,
+    "magnesium": 56.669,
+    "calcium": 103.829,
+    "iron": 0.899,
+    "zinc": 0.697,
+    "copper": 0.214,
+    "phosphorus": 123.096,
+    "sodium": 106.303,
+    "selenium": 2.674,
+    "folate": 12.437,
+    "choline": 29.184,
+    "alcohol": 0.192,
+    "caffeine": 0,
+    "gluten": 0,
+    "manganese": 0.415,
+    "conjugatedLinoleicAcid": 0.001,
+    "phyticAcid": 195.489,
+    "xylitol": 0,
+    "isomalt": 0,
+    "sorbitol": 0,
+    "maltitol": 0,
+    "lactitol": 0,
+    "erythritol": 0,
+    "pinitol": 0,
+    "inositol": 0.058,
+    "mannitol": 0
+  },
+  "image": "https://tinyurl.com/2p82zzca/c709e459-7029-4bbb-bd43-feefbe811b1a.png"
+}

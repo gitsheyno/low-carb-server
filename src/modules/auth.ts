@@ -32,14 +32,12 @@ export const createJWT = (user: User) => {
 export const protect = (req, res, next) => {
   const bearer = req.headers.authorization;
 
-  console.log("bearer", bearer);
   if (!bearer) {
     res.status(401).json({ data: { message: "not authorized" } });
   }
 
   const [_, token] = bearer.split(" ");
 
-  console.log("token", token);
   try {
     const user = jwt.verify(token, "shayan");
     console.log("user", user);

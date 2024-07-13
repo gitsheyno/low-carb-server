@@ -1,0 +1,785 @@
+[
+  {
+    "id": "ae5844e7-96bb-4797-8a20-d5f0b9b680ac",
+    "name": "Keto Crustless Pizza",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "lchf",
+      "peanut-free",
+      "relevant-meal--main-dishes",
+      "shellfish-free",
+      "soy-free",
+      "tree-nut-free",
+      "wheat-free"
+    ],
+    "description": "This Keto crustless pizza is prepared without a flour based base, is fuss free and is made in one skillet. This is a great low carb pizza alternative the whole family can enjoy. Perfect for a quick and easy Keto dinner with minimal prep and washing up!\n\n### Keto Crustless Pizza Ingredients\n\nOur easy Keto crustless pizza is prepared with a simple base layer of melted and cooled cheddar cheese. Once the base layer is set, it is topped with passata, oozy mozzarella, salami, black olives and aromatic oregano. The pizza is then oven baked until hot and bubbling, then left to cool and firm before serving with a scattering of fresh basil.\n\n### Serving Suggestions\n\nThis crustless Keto pizza is heavy with cheese so is complemented perfectly by a simple garden salad. Alternatively you could serve with some low carb steamed veggies. This recipe makes one large pizza which serves two people.",
+    "prepareTime": 15,
+    "cookTime": 14,
+    "ingredients": [
+      {
+        "name": "Black Olives",
+        "servingSize": {
+          "units": "medium",
+          "desc": "8 medium",
+          "qty": 8,
+          "grams": 32,
+          "scale": 8
+        }
+      },
+      {
+        "name": "Salami",
+        "servingSize": {
+          "units": "medium slice - 3 1/8\" diameter x 1/16\" - each 0.4 ounce",
+          "desc": "4 medium slice - 3 1/8\" diameter x 1/16\" - each 0.4 ounce",
+          "qty": 4,
+          "grams": 40,
+          "scale": 1.411
+        }
+      },
+      {
+        "name": "Cheddar Cheese",
+        "servingSize": {
+          "units": "cup, grated",
+          "desc": "1 cup, grated",
+          "qty": 1,
+          "grams": 113,
+          "scale": 3.986
+        }
+      },
+      {
+        "name": "Mozzarella Cheese",
+        "servingSize": {
+          "units": "cup, grated",
+          "desc": "1 cup, grated",
+          "qty": 1,
+          "grams": 113,
+          "scale": 3.986
+        }
+      },
+      {
+        "name": "Oregano, Dried",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Basil, Fresh",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "grams": 3,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Tomato Sauce",
+        "servingSize": {
+          "units": "cup",
+          "desc": "¼ cup",
+          "qty": 0.25,
+          "grams": 61,
+          "scale": 4
+        }
+      }
+    ],
+    "steps": [
+      "Select a medium oven proof skillet. Scatter the grated cheddar across the base of the skillet creating an even layer. Heat the skillet over a medium heat to melt the cheese together. Once the cheese has melted together in a uniform layer, remove from the heat to cool and firm a little.",
+      "Preheat the oven to 400 degrees Fahrenheit. Spoon the passata (tomato sauce) over the cheese base and spread evenly across the cheese in an even layer. Scatter the grated mozzarella across the top of the passata in an even layer.",
+      "Arrange the slices of salami across the pizza. Slice the olives in half and scatter over the pizza. Sprinkle over the dried oregano. ",
+      "Transfer the skillet to the oven to bake for 10 minutes until golden and bubbling. The cheese should be melted and the salami hot through. Set aside for 5 minutes or so to cool and firm. Scatter with fresh basil. Once cooked but still warm, the pizza can be sliced and served."
+    ],
+    "servings": 2,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 120.488,
+        "units": "slices"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 510.911,
+      "caloriesKJ": 2137.652,
+      "totalCarbs": 6.292,
+      "diabetesCarbsADA": 6.292,
+      "netCarbs": 5.017,
+      "diabetesCarbs": 5.052,
+      "fiber": 1.205,
+      "starch": 0.183,
+      "sugar": 2.009,
+      "addedSugar": 0.144,
+      "sugarAlcohols": 0.07,
+      "protein": 29.929,
+      "fat": 40.902,
+      "transFat": 0.947,
+      "monousatFat": 12.866,
+      "polyunsatFat": 2.417,
+      "omega3Fat": 0.261,
+      "omega6Fat": 2.155,
+      "saturatedFat": 21.982,
+      "cholesterol": 127.82,
+      "vitaminA": 317.886,
+      "vitaminC": 2.539,
+      "vitaminD": 0.774,
+      "vitaminE": 1.456,
+      "vitaminK": 12.454,
+      "vitaminB1": 0.111,
+      "vitaminB2": 0.457,
+      "vitaminB3": 1.654,
+      "vitaminB5": 0.576,
+      "vitaminB6": 0.201,
+      "vitaminB12": 1.264,
+      "potassium": 260.363,
+      "magnesium": 38.551,
+      "calcium": 759.528,
+      "iron": 1.513,
+      "zinc": 4.107,
+      "copper": 0.133,
+      "phosphorus": 538.487,
+      "sodium": 1384.242,
+      "selenium": 32.273,
+      "folate": 24.618,
+      "choline": 37.311,
+      "alcohol": 0,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.288,
+      "conjugatedLinoleicAcid": 0.179,
+      "phyticAcid": 2.83,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0.002,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.021,
+      "mannitol": 0.048
+    },
+    "image": "https://tinyurl.com/2p82zzca/ae5844e7-96bb-4797-8a20-d5f0b9b680ac.png"
+  },
+  {
+    "id": "0c694b51-9409-45c2-925b-7f22d86f87a0",
+    "name": "Spicy Sausage Pizza",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "fish-free",
+      "gluten-free",
+      "kid-friendly",
+      "meal-plan-ok",
+      "peanut-free",
+      "relevant-meal--lunch",
+      "shellfish-free",
+      "soy-free",
+      "wheat-free"
+    ],
+    "description": "No diet is worth it if you can’t enjoy pizza! Fathead Dough is the perfect carb-replacement for pizza dough. It’s a little chewy, crisps up nicely in the oven, and the best part is it will actually hold your toppings. You can get as creative as you want to with your pizza. Just make sure to record the appropriate toppings in your meal tracker. \n\n- Jessica L",
+    "prepareTime": 20,
+    "cookTime": 25,
+    "ingredients": [
+      {
+        "name": "Italian Sausage",
+        "servingSize": {
+          "units": "ounce",
+          "desc": "3 ounce",
+          "qty": 3,
+          "grams": 85.049,
+          "scale": 0.85
+        }
+      },
+      {
+        "name": "Low Carb Fathead Dough",
+        "servingSize": {
+          "units": "servings",
+          "desc": "2 servings",
+          "qty": 2,
+          "grams": 162,
+          "scale": 2
+        }
+      },
+      {
+        "name": "Crushed Tomato by Cento",
+        "servingSize": {
+          "units": "cup",
+          "desc": "¼ cup",
+          "qty": 0.25,
+          "grams": 61,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Garlic Raw",
+        "servingSize": {
+          "units": "clove",
+          "desc": "3 clove",
+          "qty": 3,
+          "grams": 9,
+          "scale": 0.066
+        }
+      },
+      {
+        "name": "Basil Fresh",
+        "servingSize": {
+          "units": "ounce",
+          "desc": "¼ ounce",
+          "qty": 0.25,
+          "grams": 7.087,
+          "scale": 2.674
+        }
+      },
+      {
+        "name": "Cheese Mozzarella Whole Milk",
+        "servingSize": {
+          "units": "cup, shredded",
+          "desc": "⅓ cup, shredded",
+          "qty": 0.333,
+          "grams": 37.333,
+          "scale": 0.333
+        }
+      }
+    ],
+    "steps": [
+      "Preheat an oven to 400 degrees. Prepare the Italian sausage by removing the casing from the sausage. Heat a medium sized pan to medium high heat and crumble in the sausage. Cook the meat all the way through until it’s brown and crispy, while breaking it up with the spatula. Set the cooked sausage aside to cool.",
+      "Generously spray a baking sheet or round pizza pan with pan spray. Place your cold Fathead Dough in the center (a full recipe of the dough will provide you with the amount needed here). Place a sheet of wax paper over the dough, and use your hand or a rolling pin to press out the dough into a circle, rectangle, or shape of your choice. Keep the dough at about ¼-inch thick. Then, use a fork or knife to perforate the dough to avoid shrinkage during baking.",
+      "Spoon on the crushed tomatoes. Crush and slice the garlic cloves, then place them on the pizza. Finally, top the dough with basil, Italian sausage, and mozzarella cheese. Place the pizza in the freezer for 10 minutes before baking.",
+      "Bake the pizza for 20 minutes or until the top is golden and the crust is browned. Enjoy!"
+    ],
+    "servings": 2,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 214,
+        "units": "3 slices"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 569.87,
+      "totalCarbs": 12.84,
+      "diabetesCarbsADA": 12.84,
+      "netCarbs": 10.05,
+      "diabetesCarbs": 10.05,
+      "fiber": 2.79,
+      "sugar": 3.55,
+      "sugarAlcohols": 0,
+      "protein": 31.44,
+      "fat": 44.615,
+      "monousatFat": 11.64,
+      "polyunsatFat": 2.455,
+      "saturatedFat": 17.705,
+      "cholesterol": 145.93,
+      "vitaminA": 193.31,
+      "vitaminC": 5.095,
+      "vitaminD": 0.99,
+      "vitaminE": 5.275,
+      "vitaminK": 19.46,
+      "vitaminB1": 0.335,
+      "vitaminB2": 0.4,
+      "vitaminB3": 1.96,
+      "vitaminB6": 0.27,
+      "vitaminB12": 2.195,
+      "potassium": 360.985,
+      "magnesium": 83.805,
+      "calcium": 515.555,
+      "iron": 2.48,
+      "zinc": 3.255,
+      "copper": 0.1,
+      "phosphorus": 423.545,
+      "sodium": 1984.49,
+      "selenium": 24.74,
+      "folate": 19.74,
+      "choline": 78.285
+    },
+    "image": "https://tinyurl.com/2p82zzca/0c694b51-9409-45c2-925b-7f22d86f87a0.png"
+  },
+  {
+    "id": "b2d37283-d7f6-410b-b255-6a5ebfde2094",
+    "name": "Keto Dessert Pizza",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "lchf",
+      "peanut-free",
+      "pork-free",
+      "relevant-meal--desserts",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "This Keto dessert pizza is our sweet treat version of the classic dinner favorite. This guilt free Keto dessert is topped with fresh low carb berries - perfect for summer dining. The pizza provides 4 hearty slices making it a great option for sharing with family or friends.\n\n### How to Make Keto Dessert Pizza\n\nThis Keto dessert pizza is prepared with a sweetened dough to create the pizza base. To create the dough, coconut flour is combined with ground flaxseed, aromatic cinnamon, cream cheese, erythritol, coconut oil, a little xanthan gum, egg and water. The dough is then rolled to create a pizza style base and baked. Once cooked, the dough is topped with a sweet layer of cream cheese frosting and decorated with fresh strawberries, raspberries and blueberries.\n\n### Keto Dessert Pizza Tips\n\nThis dessert pizza recipe is an easy option to adjust and adapt with your own favorite low carb toppings. Why not add a little unsweetened cocoa powder or cinnamon to your cream cheese frosting? Or add a splash of green with a scattering of fresh chopped mint. Please be sure to adjust your macros to allow for any changes made.",
+    "prepareTime": 25,
+    "cookTime": 15,
+    "ingredients": [
+      {
+        "name": "Blueberries",
+        "servingSize": {
+          "units": "each",
+          "desc": "8 each",
+          "qty": 8,
+          "grams": 11,
+          "scale": 0.074
+        }
+      },
+      {
+        "name": "Raspberries",
+        "servingSize": {
+          "units": "each",
+          "desc": "4 each",
+          "qty": 4,
+          "grams": 8,
+          "scale": 0.062
+        }
+      },
+      {
+        "name": "100% Pure Erythritol by Now",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "3 tablespoon",
+          "qty": 3,
+          "grams": 36,
+          "scale": 9
+        }
+      },
+      {
+        "name": "Strawberries",
+        "servingSize": {
+          "units": "large - 1 3/8\" diameter",
+          "desc": "2 large - 1 3/8\" diameter",
+          "qty": 2,
+          "grams": 36,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Unsalted Butter",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "grams": 14,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Vanilla Extract",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 4,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Cinnamon, Ground",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 3,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Xantham Gum Gluten Free by Hodgson Mill",
+        "servingSize": {
+          "units": "tsp",
+          "desc": "1 tsp",
+          "qty": 1,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Warm Water",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "scale": 0.333
+        }
+      },
+      {
+        "name": "Coconut Oil",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "grams": 14,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Raw Egg",
+        "servingSize": {
+          "units": "medium",
+          "desc": "1 medium",
+          "qty": 1,
+          "grams": 44,
+          "scale": 0.88
+        }
+      },
+      {
+        "name": "Coconut Flour",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅔ cup",
+          "qty": 0.667,
+          "grams": 75,
+          "scale": 0.667
+        }
+      },
+      {
+        "name": "Cream Cheese Spread",
+        "servingSize": {
+          "units": "cup",
+          "desc": "⅔ cup",
+          "qty": 0.667,
+          "grams": 160,
+          "scale": 10.666
+        }
+      },
+      {
+        "name": "Organic Ground Flax Seed by Wild Oats",
+        "servingSize": {
+          "units": "cup",
+          "desc": "¼ cup",
+          "qty": 0.25,
+          "grams": 26,
+          "scale": 4
+        }
+      },
+      {
+        "name": "Salt, Sea Salt",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "⅛ teaspoon",
+          "qty": 0.125,
+          "scale": 0.125
+        }
+      }
+    ],
+    "steps": [
+      "Add the coconut flour, ground flaxseed, 1 tablespoon of the erythritol, cinnamon, xanthan gum, coconut oil, salt and 1 tablespoon of cream cheese to a food processor. Crack the egg into the food processor. Blend to combine, then add the water and blend again until a pliable dough forms in the food processor. You may use an alternative low carb sweetener as desired, just be sure to adjust your macros accordingly.",
+      "Preheat the oven to 375 degrees Fahrenheit and line a shallow oven tray with baking paper. Turn the dough out onto the lined oven tray. Press or roll the dough into a circle, roughly 1/4 inch thick. Transfer the tray to the oven and bake for 15 minutes or until cooked through and lightly golden brown all over.",
+      "Whilst the pizza base is baking, you can prepare the frosting layer. Add the remaining cream cheese, butter, remaining erythritol and vanilla to a food processor. Blend together until smooth and well combined. Taste and add a little more sweetener if desired.",
+      "Remove the cooked pizza base from the oven. Set to one side to cool completely. The base needs to be completely cooled so that it does not melt the frosting. Spoon the frosting onto the pizza base. Use a spatula to spread the frosting evenly over the base.",
+      "Slice the strawberries into quarters and the raspberries in half. Arrange the sliced strawberries and raspberries randomly over the frosting. Scatter the blueberries over the top of the pizza. Slice into quarters to serve."
+    ],
+    "servings": 4,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 93.555,
+        "units": "slices"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 325.585,
+      "caloriesKJ": 1362.25,
+      "totalCarbs": 26.165,
+      "diabetesCarbsADA": 16.461,
+      "netCarbs": 6.757,
+      "diabetesCarbs": 11.271,
+      "fiber": 10.38,
+      "starch": 2.953,
+      "sugar": 3.804,
+      "addedSugar": 0,
+      "sugarAlcohols": 9.028,
+      "protein": 8.052,
+      "fat": 24.082,
+      "transFat": 0.501,
+      "monousatFat": 5.231,
+      "polyunsatFat": 2.509,
+      "omega3Fat": 0.183,
+      "omega6Fat": 0.576,
+      "saturatedFat": 14.839,
+      "cholesterol": 84.655,
+      "vitaminA": 161.577,
+      "vitaminC": 6.079,
+      "vitaminD": 0.459,
+      "vitaminE": 0.597,
+      "vitaminK": 2.355,
+      "vitaminB1": 0.03,
+      "vitaminB2": 0.156,
+      "vitaminB3": 0.565,
+      "vitaminB5": 0.525,
+      "vitaminB6": 0.089,
+      "vitaminB12": 0.288,
+      "potassium": 177.101,
+      "magnesium": 21.539,
+      "calcium": 63.662,
+      "iron": 1.299,
+      "zinc": 0.711,
+      "copper": 0.157,
+      "phosphorus": 95.529,
+      "sodium": 311.74,
+      "selenium": 7.777,
+      "folate": 14.001,
+      "choline": 48.701,
+      "alcohol": 0.373,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.658,
+      "conjugatedLinoleicAcid": 0.062,
+      "phyticAcid": 198.466,
+      "xylitol": 0.004,
+      "isomalt": 0,
+      "sorbitol": 0.003,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.021,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/b2d37283-d7f6-410b-b255-6a5ebfde2094.png"
+  },
+  {
+    "id": "72059e0d-c341-455a-ad27-cb94fcc176b7",
+    "name": "Keto Pizza Rolls",
+    "tags": [
+      "beef-free",
+      "chicken-free",
+      "fish-free",
+      "gluten-free",
+      "keto",
+      "kid-friendly",
+      "lchf",
+      "peanut-free",
+      "pescatarian",
+      "pork-free",
+      "quick-easy",
+      "relevant-meal--sides",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "These little rolls are a delicious cross between a cheesy breadstick and garlic knot. When warm and hot out of the oven, the rolls have such a great texture and spring, just like real bread! The cheesy dough is stuffed with marinara sauce and baked, so  all of the pizza goodness is tucked in one little roll. Feel free to dip them into your favorite sauce as well! Note that coconut milk was used in making the dough, but you can use regular dairy as well!",
+    "prepareTime": 15,
+    "cookTime": 20,
+    "ingredients": [
+      {
+        "name": "Mozzarella Cheese, Part Skim Milk",
+        "servingSize": {
+          "units": "cup, grated",
+          "desc": "1 cup, grated",
+          "qty": 1,
+          "grams": 113,
+          "scale": 3.986
+        }
+      },
+      {
+        "name": "Coconut Milk by Aroy-d",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "1 tablespoon",
+          "qty": 1,
+          "scale": 14.787
+        }
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 4,
+          "scale": 0.333
+        }
+      },
+      {
+        "name": "Oregano, Dried",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "¼ teaspoon",
+          "qty": 0.25,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Garlic Powder",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "¼ teaspoon",
+          "qty": 0.25,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Raw Egg",
+        "servingSize": {
+          "units": "large",
+          "desc": "1 large",
+          "qty": 1,
+          "grams": 50,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Raw Egg, White",
+        "servingSize": {
+          "units": "medium",
+          "desc": "1 medium",
+          "qty": 1,
+          "grams": 29,
+          "scale": 0.88
+        }
+      },
+      {
+        "name": "Almond Flour",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "9 tablespoon",
+          "qty": 9,
+          "grams": 63,
+          "scale": 0.563
+        }
+      },
+      {
+        "name": "Flaxseeds Whole And Ground",
+        "servingSize": {
+          "units": "tbsp, ground",
+          "desc": "½ tbsp, ground",
+          "qty": 0.5,
+          "grams": 3,
+          "scale": 0.021
+        }
+      },
+      {
+        "name": "Baking Powder",
+        "servingSize": {
+          "units": "teaspoon",
+          "desc": "1 teaspoon",
+          "qty": 1,
+          "grams": 5,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Marinara Sauce by Rao's",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "2 tablespoon",
+          "qty": 2,
+          "grams": 28,
+          "scale": 0.125
+        }
+      },
+      {
+        "name": "Water",
+        "servingSize": {
+          "units": "tablespoon",
+          "desc": "½ tablespoon",
+          "qty": 0.5,
+          "grams": 7,
+          "scale": 0.25
+        }
+      },
+      {
+        "name": "Sesame Seeds",
+        "servingSize": {
+          "units": "teaspoon, whole pieces",
+          "desc": "1 teaspoon, whole pieces",
+          "qty": 1,
+          "grams": 3,
+          "scale": 0.021
+        }
+      }
+    ],
+    "steps": [
+      "Combine the shredded cheese, coconut milk and olive oil in a microwave-safe bowl. Microwave at 20 second increments and mix",
+      "Continue to microwave in increments until the cheese is fully melted (but be careful to make sure it doesn’t burn). Fold in the oregano and garlic powder ",
+      "Mix in the egg, 1/2 cup of almond flour, ground flaxseed and half of the baking powder. ",
+      "Form the dough into a ball and refrigerate for 30 minutes.",
+      "Preheat the oven to 350 degrees Fahrenheit. Remove the dough from the fridge and mix in the last tablespoon of almond flour and 1/2 tsp. of baking powder. Form the dough into 4 equal sized balls. ",
+      "Flatten each ball until they are about 1/4” thick. If the dough is sticky, lightly wet your hands while rolling and flattening. Add a small dollop of sauce to the center of the dough. Pinch each side of the dough up and over the sauce and roll so that they are a ball shape. ",
+      "Mix an egg white with 1/2 tablespoon of water and mix together with a fork. Spread the egg wash on top of the balls and sprinkle with sesame seeds.",
+      "Arrange the balls on a parchment covered sheet pan about 2 inches apart from one another. Bake for 18-20 minutes, or until the tops of the rolls begin to brown. Allow to cool for a few minutes before enjoying. These rolls are best eaten warm and are even more delicious when you dip them into your favorite sauce."
+    ],
+    "servings": 4,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 100,
+        "units": "servings"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 228.127,
+      "caloriesKJ": 954.483,
+      "totalCarbs": 6.128,
+      "diabetesCarbsADA": 6.128,
+      "netCarbs": 3.913,
+      "diabetesCarbs": 3.936,
+      "fiber": 2.169,
+      "starch": 0.589,
+      "sugar": 1.767,
+      "addedSugar": 0,
+      "sugarAlcohols": 0.045,
+      "protein": 12.789,
+      "fat": 17.754,
+      "transFat": 0.208,
+      "monousatFat": 7.991,
+      "polyunsatFat": 2.833,
+      "omega3Fat": 0.045,
+      "omega6Fat": 2.537,
+      "saturatedFat": 4.957,
+      "cholesterol": 64.705,
+      "vitaminA": 90.475,
+      "vitaminC": 0.572,
+      "vitaminD": 0.377,
+      "vitaminE": 4.244,
+      "vitaminK": 1.509,
+      "vitaminB1": 0.069,
+      "vitaminB2": 0.341,
+      "vitaminB3": 0.663,
+      "vitaminB5": 0.376,
+      "vitaminB6": 0.072,
+      "vitaminB12": 0.62,
+      "potassium": 208.857,
+      "magnesium": 57.57,
+      "calcium": 315.532,
+      "iron": 1.066,
+      "zinc": 1.739,
+      "copper": 0.193,
+      "phosphorus": 288.54,
+      "sodium": 362.127,
+      "selenium": 14.178,
+      "folate": 22.28,
+      "choline": 49.188,
+      "alcohol": 0,
+      "caffeine": 0,
+      "gluten": 0,
+      "manganese": 0.337,
+      "conjugatedLinoleicAcid": 0.028,
+      "phyticAcid": 157.62,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.045,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/72059e0d-c341-455a-ad27-cb94fcc176b7.png"
+  }
+]
