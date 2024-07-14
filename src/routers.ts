@@ -11,16 +11,15 @@ router.patch(
   "/dashboard/profile",
   calculateNutritionalNeeds,
   async (req, res) => {
-    // const {user} = req
 
     const userId = req.user.id;
     const macrosData = req.body.calculations;
-    console.log("profile id ", req.body, req.body.calculations);
-    console.log("profile", req.body, req.user.id);
-    console.log("middlewaredata", macrosData);
-
-    const user = await prisma.userProfile.create({
    
+
+    const user = await prisma.userProfile.update({
+      where:{
+        belongsToId : userId
+      },
       data: {
         // ...req.body,
         belongsToId : req.user.id,
@@ -659,7 +658,6 @@ router.get("/dashboard/meals",async(req,res)=>{
     });
 
 
-    console.log("hehehe" , mealLimit)
     if(!mealLimit){
       const newMealObject = {
         id: req.user.id,
@@ -685,7 +683,6 @@ router.get("/dashboard/meals",async(req,res)=>{
       }
     });
 
-  console.log("test here" , mealLimit)
     const newMealObject = {
       id: req.user.id,
       name: "shayan",
