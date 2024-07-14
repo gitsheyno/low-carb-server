@@ -16,13 +16,13 @@ router.patch(
     const macrosData = req.body.calculations;
    
 
-    const user = await prisma.userProfile.update({
+    const user = await prisma.user.update({
       where:{
-        belongsToId : userId
+        id : userId
       },
       data: {
         // ...req.body,
-        belongsToId : req.user.id,
+        id : req.user.id,
         gender: req.body.userProfile.gender,
         weight: req.body.userProfile.weight,
         height: req.body.userProfile.height,
@@ -570,9 +570,9 @@ const createdMeals = fetched.map(({id,name ,image,nutrients,description,servings
 
   const id = req.user.id;
   
-  const user = await prisma.userProfile.findUnique({
+  const user = await prisma.user.findUnique({
     where: {
-      belongsToId: id,
+      id: id,
     },
   });
 
@@ -651,14 +651,14 @@ router.get("/dashboard/meals",async(req,res)=>{
 
 
     // Use createMany to save multiple records at once
-    const mealLimit = await prisma.userProfile.findUnique({
+    const mealLimit = await prisma.user.findUnique({
       where: {
-        belongsToId : req.user.id
+        id : req.user.id
       }
     });
 
-
-    if(!mealLimit){
+    console.log(mealLimit, " limiiiiiiiiiiit")
+    if(mealLimit.age === 0){
       const newMealObject = {
         id: req.user.id,
         name: req.user.name,

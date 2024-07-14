@@ -13,12 +13,12 @@ export const createUser = async (req, res) => {
       username: inComingUser.username,
       name: inComingUser.name,
       password: await hashPass(inComingUser.password),
-      // gender: "",
-      // weight: 0,
-      // height: 0,
-      // age: 0,
-      // activity: "",
-      // goal: "",
+      gender: "",
+      weight: 0,
+      height: 0,
+      age: 0,
+      activity: "",
+      goal: "",
     },
   });
   const token = createJWT(user);

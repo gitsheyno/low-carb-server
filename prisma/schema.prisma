@@ -14,15 +14,6 @@ model User {
   password    String
   name        String
 
-
-  UserMeal UserMeal[]
-  UserProfile UserProfile?
-}
-
-model UserProfile{
-  id          String   @id @default(uuid())
-  createtAT   DateTime @default(now())
-  belongsToId String @unique
   proteinGram Float?
   proteinCal  Float?
   fatGram     Float?
@@ -38,10 +29,12 @@ model UserProfile{
   goal        String
   bmr         Float?
   tdee        Float?
-  belongsTo   User     @relation(fields: [belongsToId], references: [id])
-  @@unique([belongsToId,id])
 
+
+  UserMeal UserMeal[]
 }
+
+
 
 model UserMeal {
   id          String   @id @default(uuid())
