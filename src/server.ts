@@ -31,7 +31,25 @@ app.use((req, res, next) => {
  * Our API
  */
 
+// app.get("/api", (req, res, next) => {
+//   setTimeout(() => {
+//     next(new Error("hello"));
+//   }, 1000);
+// });
+
 app.use("/api", protect, router);
 app.post("/signin", createUser);
 app.post("/login", loginUser);
+
+app.use((err, req, res, next) => {
+  console.log(`something went wrong : ${err}`);
+  if (err.type === "auth") {
+    res.status(401).json({ message: "un authorized" });
+  } else if (err.type === "input") {
+    console.log("logge")
+    res.status(400).json({ message: "invalid input" });
+  } else {
+    res.status(500).json({ message: "oops, thats on me" });
+  }
+});
 export default app;

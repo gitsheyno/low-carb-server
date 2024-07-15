@@ -5,24 +5,30 @@ import { UserRequest } from "../modules/types";
  * Create User
  */
 
-export const createUser = async (req, res) => {
+export const createUser = async (req, res, next) => {
   const inComingUser: UserRequest = req.body;
 
-  const user = await prisma.user.create({
-    data: {
-      username: inComingUser.username,
-      name: inComingUser.name,
-      password: await hashPass(inComingUser.password),
-      gender: "",
-      weight: 0,
-      height: 0,
-      age: 0,
-      activity: "",
-      goal: "",
-    },
-  });
-  const token = createJWT(user);
-  res.json({ data: { username: user.username, token, name: user.name } });
+  try {
+    const user = await prisma.user.create({
+      data: {
+        username: inComingUser.username,
+        name: inComingUser.name,
+        password: await hashPass(inComingUser.password),
+        gender: "",
+        weight: 0,
+        height: 0,
+        age: 0,
+        activity: "",
+        goal: "",
+      },
+    });
+
+    const token = createJWT(user);
+    res.json({ data: { username: user.username, token, name: user.name } });
+  } catch (err) {
+    err.type = "input";
+    next(err);
+  }
 };
 
 export const loginUser = async (req, res) => {
