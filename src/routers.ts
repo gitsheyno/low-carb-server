@@ -668,7 +668,7 @@ router.post("/dashboard/planing", async (req, res) => {
   res.status(200).json({ data: { createdMeals } });
 });
 
-router.post("/dashboard/meals", async (req, res) => {
+router.post("/dashboard/meals", async (req, res, next) => {
   const id = req.params.id;
 
   // Prepare the data to match the Prisma model
@@ -683,20 +683,15 @@ router.post("/dashboard/meals", async (req, res) => {
     belongsToId: req.user.id,
   }));
 
-  // Use createMany to save multiple records at once
-  const createdMeals = await prisma.userMeal.createMany({
-    data: mealsData,
-  });
-
-  // const emals = await prisma.meal.create({
-  //   data:{
-  //     belongsToId : req.user.id,
-  //     name : req.body.data.name,
-  //     calories : req.body.data.calories,
-  //     protein : req.body.data.protein
-  //   }
-  // })
-  res.status(200).json({ data: { message: "received" } });
+  try {
+    // Use createMany to save multiple records at once
+    const createdMeals = await prisma.userMeal.createMany({
+      data: mealsData,
+    });
+    res.status(200).json({ data: { message: "received" } });
+  } catch (err) {
+    next(err);
+  }
 });
 router.get("/dashboard/meals", async (req, res) => {
   const id = req.params.id;
