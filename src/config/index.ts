@@ -19,6 +19,8 @@ const defaultConfig = {
   stage,
   dbUrl: process.env.DATABASE_URL,
   jwtSecret: process.env.JWT_SECRET,
+  X_RapidAPI_Key:process.env.X_RapidAPI_Key,
+  X_RapidAPI_Hos:process.env._RapidAPI_Hos,
   port: process.env.PORT,
   logging: false,
 };
