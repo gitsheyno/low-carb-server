@@ -14,7 +14,7 @@ const app = express();
 // Configure CORS to allow requests from 'http://localhost:3001'
 app.use(
   cors({
-    origin: "http://localhost:3001",
+    origin: "*",
     methods: ["GET", "POST", "PATCH"], // Add other HTTP methods if needed
     credentials: true, // Allow cookies to be sent
   })
