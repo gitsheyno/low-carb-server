@@ -33,7 +33,7 @@ app.use((req, res, next) => {
  */
 
 app.get("/", (req, res, next) => {
-  res.json("love you hiba")
+  res.json("love you Shayan")
 });
 
 app.use("/api", protect, router);
