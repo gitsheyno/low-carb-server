@@ -32,11 +32,9 @@ app.use((req, res, next) => {
  * Our API
  */
 
-// app.get("/api", (req, res, next) => {
-//   setTimeout(() => {
-//     next(new Error("hello"));
-//   }, 1000);
-// });
+app.get("/", (req, res, next) => {
+  res.json("hello")
+});
 
 app.use("/api", protect, router);
 app.post("/signin", createUser);
