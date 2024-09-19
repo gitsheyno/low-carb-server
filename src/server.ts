@@ -6,6 +6,8 @@ import cors from "cors";
 import { createUser, loginUser } from "./handlers/user";
 import { protect } from "./modules/auth";
 
+
+
 /**
  * App
  */

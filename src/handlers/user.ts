@@ -7,7 +7,7 @@ import { UserRequest } from "../modules/types";
 
 export const createUser = async (req, res, next) => {
   const inComingUser: UserRequest = req.body;
-
+  console.log("try")
   try {
     const user = await prisma.user.create({
       data: {
