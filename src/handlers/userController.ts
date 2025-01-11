@@ -1,6 +1,5 @@
 import prisma from "../db";
 import { Recipe } from "../modules/types";
-
 export const updateProfile = async (req, res) => {
   const userId = req.user.id;
   const macrosData = req.body.calculations;
@@ -29,16 +28,14 @@ export const updateProfile = async (req, res) => {
     },
   });
 
-  console.log(user, "pro user ");
-
   res.status(200).json({ data: { message: "profile updated" } });
 };
 
 export const getSingleRecipe = async (req, res) => {
   const id = req.params.id || "pizza";
-
+  const { page } = req.body;
   // const url = 'https://low-carb-recipes.p.rapidapi.com/search?name=cake&tags=keto%3Bdairy-free&includeIngredients=egg%3Bbutter&excludeIngredients=cinnamon&maxPrepareTime=10&maxCookTime=20&maxCalories=500&maxNetCarbs=5&maxSugar=3&maxAddedSugar=0&limit=10';
-  const url = `https://low-carb-recipes.p.rapidapi.com/search?name=${id}&limit=8`;
+  const url = `https://low-carb-recipes.p.rapidapi.com/search?name=${id}&limit=16`;
   const options = {
     method: "GET",
     headers: {
@@ -184,7 +181,7 @@ export const postPlaning = async (req, res) => {
   const allowedCalories = user.calories;
 
   const query = req.body.data;
-  const url = `https://low-carb-recipes.p.rapidapi.com/search?name=${query}&limit=5`;
+  const url = `https://low-carb-recipes.p.rapidapi.com/search?name=${query}&limit=16`;
   const options = {
     method: "GET",
     headers: {
@@ -197,20 +194,33 @@ export const postPlaning = async (req, res) => {
     const response = await fetch(url, options);
     const result = await response.json();
 
-    const createdMeals = (result as Recipe[]).map(
-      ({ id, name, image, nutrients, description, servings, cookTime }) => ({
-        id,
-        name,
-        image,
-        caloriesKCal: nutrients["caloriesKCal"],
-        protein: nutrients["protein"],
-        carbs: nutrients["totalCarbs"],
-        fat: nutrients["fat"],
-        description,
-        servings,
-        cookTime,
-      })
-    );
+    console.log("result");
+
+    const createdMeals =
+      Array.isArray(result) && result.length > 0
+        ? (result as Recipe[]).map(
+            ({
+              id,
+              name,
+              image,
+              nutrients,
+              description,
+              servings,
+              cookTime,
+            }) => ({
+              id,
+              name,
+              image,
+              caloriesKCal: nutrients["caloriesKCal"],
+              protein: nutrients["protein"],
+              carbs: nutrients["totalCarbs"],
+              fat: nutrients["fat"],
+              description,
+              servings,
+              cookTime,
+            })
+          )
+        : [];
 
     res.status(200).json({ data: { createdMeals } });
   } catch (error) {

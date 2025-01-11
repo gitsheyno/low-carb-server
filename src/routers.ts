@@ -26,6 +26,6 @@ router.post("/dashboard/:id", async (req, res) => {
 
 router.get("/recipe/:id", getRecipe);
 
-router.get("/recipes/:id", getSingleRecipe);
+router.post("/recipes/:id", getSingleRecipe);
 
 export default router;

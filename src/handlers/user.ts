@@ -7,7 +7,6 @@ import { UserRequest } from "../modules/types";
 
 export const createUser = async (req, res, next) => {
   const inComingUser: UserRequest = req.body;
-  console.log("try")
   try {
     const user = await prisma.user.create({
       data: {
@@ -32,23 +31,44 @@ export const createUser = async (req, res, next) => {
 };
 
 export const loginUser = async (req, res) => {
-  const inComingUser: UserRequest = req.body;
+  try {
+    const inComingUser = req.body;
 
-  const user = await prisma.user.findUnique({
-    where: {
-      username: inComingUser.username,
-    },
-  });
+    // Find user by username
+    const user = await prisma.user.findUnique({
+      where: {
+        username: inComingUser.username,
+      },
+    });
 
-  const isValid = await comparePasswords(inComingUser.password, user.password);
+    // Check if user exists
+    if (!user) {
+      return res.status(401).json({
+        data: "login failed",
+      });
+    }
 
-  if (!isValid) {
-    res.status(401).json({ data: { message: "user not Found" } });
-    return;
+    // Validate password
+    const isValid = await comparePasswords(
+      inComingUser.password,
+      user.password
+    );
+
+    if (!isValid) {
+      return res.status(401).json({
+        data: "login failed",
+      });
+    }
+
+    // Generate token if authentication is successful
+    const token = createJWT(user);
+
+    res
+      .status(200)
+      .json({ data: { token, username: user.username, name: user.name } });
+  } catch (error) {
+    // Log and handle unexpected errors
+    console.error("Error logging in user:", error);
+    res.status(500).json({ data: { message: "Internal server error" } });
   }
-  const token = createJWT(user);
-
-  res
-    .status(200)
-    .json({ data: { token, username: user.username, name: user.name } });
 };
