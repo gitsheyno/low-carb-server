@@ -28,7 +28,6 @@ export const createJWT = (user: User) => {
 /**
  * protected routes middleware
  */
-
 export const protect = (req, res, next) => {
   const bearer = req.headers.authorization;
 
