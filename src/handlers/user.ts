@@ -1,18 +1,25 @@
 import { hashPass, createJWT, comparePasswords } from "../modules/auth";
-import prisma from "../db";
-import { UserRequest } from "../modules/types";
+import { turso } from "../db/tursoClient";
+import { User, UserRequest } from "../modules/types";
 /**
  * Create User
  */
-
 export const createUser = async (req, res, next) => {
   const inComingUser: UserRequest = req.body;
   try {
-    const user = await prisma.user.create({
-      data: {
+    const hashedPassword = await hashPass(inComingUser.password);
+
+    const sql = `
+      INSERT INTO User (username, name, password, gender, weight, height, age, activity, goal)
+      VALUES (:username, :name, :password, :gender, :weight, :height, :age, :activity, :goal)
+    `;
+
+    const result = await turso.execute({
+      sql,
+      args: {
         username: inComingUser.username,
         name: inComingUser.name,
-        password: await hashPass(inComingUser.password),
+        password: hashedPassword,
         gender: "",
         weight: 0,
         height: 0,
@@ -22,8 +29,18 @@ export const createUser = async (req, res, next) => {
       },
     });
 
-    const token = createJWT(user);
-    res.json({ data: { username: user.username, token, name: user.name } });
+    if (result.rowsAffected > 0) {
+      const getUserSql = `SELECT * FROM User WHERE username = :username`;
+      const userResult = await turso.execute({
+        sql: getUserSql,
+        args: { username: inComingUser.username },
+      });
+
+      const user = userResult.rows[0];
+      const token = createJWT(user as unknown as User);
+
+      res.json({ data: { username: user.username, token, name: user.name } });
+    }
   } catch (err) {
     err.type = "input";
     next(err);
@@ -34,40 +51,33 @@ export const loginUser = async (req, res) => {
   try {
     const inComingUser = req.body;
 
-    // Find user by username
-    const user = await prisma.user.findUnique({
-      where: {
-        username: inComingUser.username,
-      },
+    const sql = `SELECT * FROM User WHERE username = :username`;
+    const result = await turso.execute({
+      sql,
+      args: { username: inComingUser.username },
     });
 
-    // Check if user exists
+    const user = result.rows[0];
+
     if (!user) {
-      return res.status(401).json({
-        data: "login failed",
-      });
+      return res.status(401).json({ data: "login failed" });
     }
 
-    // Validate password
     const isValid = await comparePasswords(
       inComingUser.password,
-      user.password
+      user.password as string
     );
 
     if (!isValid) {
-      return res.status(401).json({
-        data: "login failed",
-      });
+      return res.status(401).json({ data: "login failed" });
     }
 
-    // Generate token if authentication is successful
-    const token = createJWT(user);
+    const token = createJWT(user as unknown as User);
 
     res
       .status(200)
       .json({ data: { token, username: user.username, name: user.name } });
   } catch (error) {
-    // Log and handle unexpected errors
     console.error("Error logging in user:", error);
     res.status(500).json({ data: { message: "Internal server error" } });
   }
